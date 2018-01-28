@@ -1,0 +1,80 @@
+
+html,body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #111D4A;
+    background: #EAEAEB;
+
+    padding-top: 40px;
+
+}
+
+/* NOTE - if you address a class, then you need a period before the name
+            But, if it's a tag like "table" then there's no need */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.align-mid
+{
+    text-align: center;
+}
+
+table {
+    font-family: 'Montserrat', sans-serif;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+td {
+    text-align: middle;
+    padding: 8px;
+}
+th {
+    text-align: middle;
+    padding: 8px;
+    font-weight: bold;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+
+nav {
+    background: #A53E38;
+    /* Code below for navbar to stay at top while scrolling down! */
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar a {
+    padding: 10px 20px;
+    display: block;
+    color: #E8EAEE;
+    text-decoration: none;
+
+}
+
+ul.navbar {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
