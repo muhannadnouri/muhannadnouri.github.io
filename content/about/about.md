@@ -8,7 +8,7 @@ Muhannad is an undergraduate student at the University of Calgary pursuing a Bac
 
 ![alt text][logo]
 
-[logo]: https://muhannadnouri.com/images/Pocaterra.jpg "Mount Pocaterra"
+[logo]: /images/Pocaterra.jpg "Mount Pocaterra"
 
 <p align="center">
   <b>Mount Pocaterra, Kananaskis, AB</b><br>
