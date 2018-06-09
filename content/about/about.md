@@ -8,8 +8,8 @@ Muhannad is an undergraduate student at the University of Calgary pursuing a Bac
 
 ![alt text][logo]
 
-[logo]: /images/Pocaterra.jpg "Mount Pocaterra"
+[logo]: https://i.imgur.com/w1ZgXgi.jpg "Grassi Lakes, Kananaskis, AB"
 
 <p align="center">
-  <b>Mount Pocaterra, Kananaskis, AB</b><br>
+  <b>Grassi Lakes, Kananaskis, AB</b><br>
 </p>

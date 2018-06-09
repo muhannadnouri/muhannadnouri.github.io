@@ -27,9 +27,3 @@ Self-motivated and well-rounded computer science student capable of data analysi
 * BSc in Computer Science
 * Concentration in Software Engineering
 
-![alt text][logo]
-[logo]: https://muhannadnouri.com/images/Pocaterra.jpg "Mount Pocaterra"
-
-<p align="center">
-  <b>Mount Pocaterra, Kananaskis, AB</b><br>
-</p>
