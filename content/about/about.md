@@ -13,3 +13,6 @@ Muhannad is an undergraduate student at the University of Calgary pursuing a Bac
 <p align="center">
   <b>Grassi Lakes, Kananaskis, AB</b><br>
 </p>
+
+
+![image alt text](/Grassi_Lakes.jpg)
