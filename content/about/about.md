@@ -11,5 +11,5 @@ Born and raised in the Kingdom of Saudi Arabia, Muhannad is an undergraduate stu
  [logo]: https://i.imgur.com/w1ZgXgi.jpg "Grassi Lakes, Kananaskis, AB"
 
  <p align="center">	
-  <b>Grassi Lakes, Kananaskis, AB</b><br>	![alt text][logo]
+  <b>Grassi Lakes, Kananaskis, AB</b><br>
 </p>
