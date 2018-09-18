@@ -48,19 +48,21 @@ Driven and well-rounded computer science student capable of data analysis, softw
 
 ### Volunteer
 
-#### Club Secretary (Toastmasters International) - July 2016 - July 2018
+#### Club Secretary
+__Toastmasters International__ (July 2016 - July 2018)
 * Responsible for communication with club members, weekly emails and announcements.
 * Assist club president in administrative duties, organizing club contests and mentorship program.
 
 #### STEPS Program Volunteer
-* __Student Success Centre at the University of Calgary__ - September 2016 - December 2016
+__Student Success Centre at the University of Calgary__ (September 2016 - December 2016)
 * Assisted students under academic probation develop strategies for effective studying, listen to their concerns, and guide them towards better problem solving.
 
 #### Early Literacy Volunteer Corps
-* __Calgary Public Library__ - June 2016 - August 2018
+__Calgary Public Library__ (June 2016 - August 2018)
 * Support early literacy development in children (ages 1-5), improve self-confidence, creative thinking skills and facilitate an environment that is fun and safe for children to interact with books and toys.
 
-#### Coder Dojo Volunteer (Calgary Public Library) - March 2016 - July 2016
+#### Coder Dojo Volunteer
+__Calgary Public Library__ (March 2016 - July 2016)
 * Guiding youth participants (ages 5-17) to build their digital literacy skills, instill confidence using technology and develop computer programming skills.
 
 
