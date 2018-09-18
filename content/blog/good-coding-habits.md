@@ -28,9 +28,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et metus dapibus, 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et metus dapibus, tempor sapien et, placerat orci. Aliquam tincidunt euismod mattis. Quisque tempor eros id dictum egestas. Donec eget mollis quam. Aliquam lacinia, diam a venenatis aliquam, quam neque rutrum nibh, sed consequat lorem ligula id elit. In nec mollis orci, at dapibus sem. In porta placerat neque vel molestie. Praesent quis mauris velit.
 
 # Good Coding Habits
+
+This is more of a personal check list of important reminders of good habits to follow when I'm writing code.
+
 __1. Break It Down__
 
-The logic behind this is that if you have a function performing too many operations all, then it is recommended to break it down into smaller pieces. The reason this is good coding practice is because it helps improve the readability of the code you are writing. The chances that you are working on a project solo is quite low, therefore make your project team members love you and break down your code 
+The logic behind this is that if you have a function performing too many operations all, then it is recommended to break it down into smaller pieces. The reason this is good coding practice is because it helps improve the readability of the code you are writing. The chances that you are working on a project solo is quite low, therefore make your project team members love you and break down your code into a less messy, more readable block. 
 
 Example:
 
