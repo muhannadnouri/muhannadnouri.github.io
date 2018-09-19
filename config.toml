@@ -59,3 +59,8 @@ googleAnalytics = ""
     url = "https://ca.linkedin.com/in/muhannadnouri"
     name = "linkedin"
     weight = 3
+
+[[menu.icon]]
+    url = "https://dev.to/man2006"
+    name = "medium"
+    weight = 4
