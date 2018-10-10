@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2018-05-14
+description: " "
 draft: false
 ---
 
