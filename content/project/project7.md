@@ -1,7 +1,7 @@
 ---
 title: "Trail Explorers"
 description: "Interaction Design Project"
-tags: ["c#", "interaction-design"]
+tags: ["c-sharp", "interaction-design"]
 weight: 7
 draft: false
 ---
