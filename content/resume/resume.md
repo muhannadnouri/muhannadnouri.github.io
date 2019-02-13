@@ -81,10 +81,19 @@ __________________
   <font size="+3">Volunteer</font>
 </p>
 
+### Technical Mentor
+#### Technovation Iridescent (January 2019 - Present)
+* Developed introductory mobile development curriculum, and teaching material for the Swift programming langugae and iOS development.
+* Taught fundamental programming concepts, version control using GitHub, and iOS development (Swift).
+* Provided mobile application development, troubleshooting and design support.
+
 ### Club Secretary
 #### Toastmasters International (July 2016 - July 2018)
-* Responsible for communication with club members, weekly emails and announcements.
-* Assist club president in administrative duties, organizing club contests and mentorship program.
+* Responsible for all internal and external communications with club members, weekly newsletter and announcements
+* Assisted club president in administrative duties, organizing club contests and mentorship program.
+* Redesigned weekly newsletter
+* Recorded meeting minutes
+* Organized and planned club contests, annual BBQ, and Christmas party
 
 ### STEPS Program Volunteer
 #### University of Calgary (September 2016 - December 2016)
