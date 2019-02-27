@@ -1,7 +1,7 @@
 ---
 title: "Hugo & Netlify Tutorial"
 description: "Static Website Building Using Hugo & Netlify"
-date: 2018-08-28
+date: 2019-02-26
 draft: false
 ---
 
@@ -63,7 +63,7 @@ The original `config.toml` file will look as such
 
 Now copy and paste the new `config.toml` given to you by the theme's author
 
-    baseurl = "/"
+    baseURL = "/"
     languageCode = "en-us"
     theme = "hello-friend-ng"
     
