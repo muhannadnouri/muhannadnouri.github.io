@@ -67,8 +67,13 @@ __________________
 __________________
 
 <p align="center">
-  <font size="+3">Work Experience</font>
+  <font size="+3">Experience</font>
 </p>
+
+### Hacker
+#### CalgaryHacks (February 2019)
+* Participated in the 2019 CalgaryHacks Hackathon at the University of Calgary. It brought over 200 participants over a two day work period for a competition to develop a software project solving a problem.
+* Collaborated with a team of five different individuals to develop an energy efficiency monitoring application in order to equip the municipality with the relevant information with regards to which communities require more funding for redevelopment efforts.
 
 ### Summer Program Leader
 #### Calgary Catholic Immigration Society (June 2016 - September 2016)
