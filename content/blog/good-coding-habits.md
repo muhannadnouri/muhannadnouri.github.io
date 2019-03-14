@@ -2,7 +2,7 @@
 title: "Good Coding Habits"
 description: "Five Important Coding Habits"
 date: 2018-09-04
-draft: false
+draft: true
 ---
 
 ## Introduction

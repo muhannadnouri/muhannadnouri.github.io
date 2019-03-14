@@ -3,7 +3,7 @@ title: "Android Share UI"
 description: "Share UI Problem for Android OS"
 tags: ["android", "google"]
 weight: 2
-draft: false
+draft: true
 ---
 
 ## Introduction

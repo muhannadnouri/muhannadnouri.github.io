@@ -2,7 +2,7 @@
 title: "SkipTheDishes Sorting"
 description: "Category Sorting Problem for SkipTheDishes"
 date: 2018-08-28
-draft: false
+draft: true
 ---
 
 ## Introduction
