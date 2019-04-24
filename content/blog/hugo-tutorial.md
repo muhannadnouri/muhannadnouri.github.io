@@ -1,11 +1,14 @@
----
-title: "Hugo & Netlify Tutorial"
-description: "Static Website Building Using Hugo & Netlify"
-date: 2019-02-26
-draft: false
----
++++
+date = "2019-02-26"
+title = "Hugo & Netlify Tutorial"
+draft = false
+image = "https://i.imgur.com/3BPGzVD.png"
+showonlyimage = false
+weight = 1
++++
 
 In this post, I am going to show you to build your own personal website using the static website generator [Hugo](https://gohugo.io), then we will deploy our website using [Netlify](https://netlify.com).
+<!--more-->
 
 ## What is Hugo?
 Hugo is an open source static website generator. If you are attempting a website to showcase your resume or project portfolio then static website generators are perfect for you.

@@ -1,12 +1,14 @@
----
-title: "Google Pixel 2 XL Review"
-description: "1 Year Review"
-date: 2019-03-28
-draft: false
----
++++
+image = "https://i.imgur.com/X08jDTt.jpg"
+showonlyimage = false
+date = "2019-03-28"
+title = "Google Pixel 2 XL Review"
+draft = false
+weight = 2
++++
 
 This is my review for Google's Pixel 2 XL phone after one full year of using it as my daily driver.
-<hr>
+<!--more-->
 
 ### Context
 
