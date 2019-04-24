@@ -39,7 +39,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "About"
-  url = "about/"
+  url = "about/about"
 
   [[params.navlinks]]
   name = "Blog"
@@ -55,7 +55,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Contact"
-  url = "contact/"
+  url = "contact/contact"
 
   [params.social]
   email         = "muhannadnouri@gmail.com"
