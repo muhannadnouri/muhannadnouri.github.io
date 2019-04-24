@@ -55,7 +55,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Contact"
-  url = "contact/contact"
+  url = "contact/"
 
   [params.social]
   email         = "muhannadnouri@gmail.com"
