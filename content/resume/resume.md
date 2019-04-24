@@ -3,18 +3,17 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Resume"
 +++
 
----
 <p align="center">
-<font size="+3">Profile</font>
+  <font size="+3">Profile</font>
 </p>
 
 Driven and well-rounded computer science student proficient at data analysis, software analysis and testing, database management and design looking to leverage his skills in an environment fostering growth.
 <br></br>
 
-***
+__________________
 
 <p align="center">
-<font size="+3">Languages</font>
+  <font size="+3">Languages</font>
 </p>
 
 * HTML5, CSS3
@@ -24,10 +23,10 @@ Driven and well-rounded computer science student proficient at data analysis, so
 * x86 Assembly
 * Regular Expressions
 
-***
+__________________
 
 <p align="center">
-<font size="+3">General Proficiencies</font>
+  <font size="+3">General Proficiencies</font>
 </p>
 
 * Web Development
@@ -36,11 +35,11 @@ Driven and well-rounded computer science student proficient at data analysis, so
 * Object-Oriented Programming and Design
 * Technical Writing and Public Speaking
 
-***
+__________________
 
 <p align="center">
-<font size="+3">Highlights</font>
-<br></br>
+  <font size="+3">Highlights</font>
+  <br></br>
 </p>
 
 
@@ -56,21 +55,20 @@ Driven and well-rounded computer science student proficient at data analysis, so
 * Data analysis project completed for a client, Calgary startup Oral4D, on an orthodontics data set
 * Data cleaning, profiling, and modeling performed using OpenRefine, Python, and Tableau
 
-***
+__________________
 
 <p align="center">
-<font size="+3">Education</font>
+  <font size="+3">Education</font>
 </p>
 
 #### University of Calgary (2019)
-
 * BSc in Computer Science
 * Concentration in Software Engineering
 
-***
+__________________
 
 <p align="center">
-<font size="+3">Experience</font>
+  <font size="+3">Experience</font>
 </p>
 
 ### Hacker
@@ -85,10 +83,10 @@ Driven and well-rounded computer science student proficient at data analysis, so
 * Worked with Syrian refugee children in a transition phase where they became more accustomed with Canadian culture.
 * Guided them to solve problems amongst themselves in a respectful and friendly manner, and to work as a unit towards a common project.
 
-***
+__________________
 
 <p align="center">
-<font size="+3">Volunteer</font>
+  <font size="+3">Volunteer</font>
 </p>
 
 ### Technical Mentor
