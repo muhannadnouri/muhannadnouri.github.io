@@ -39,7 +39,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "About"
-  url = "about/about"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Blog"
@@ -47,7 +47,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Resume"
-  url = "resume/"
+  url = "resume/resume"
 
   [[params.navlinks]]
   name = "Portfolio"
