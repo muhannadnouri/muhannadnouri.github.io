@@ -47,7 +47,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Resume"
-  url = "/resume/"
+  url = "resume/"
 
   [[params.navlinks]]
   name = "Portfolio"
@@ -55,7 +55,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Contact"
-  url = "/contact/"
+  url = "contact/"
 
   [params.social]
   email         = "muhannadnouri@gmail.com"
