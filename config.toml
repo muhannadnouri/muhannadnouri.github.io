@@ -1,0 +1,63 @@
+baseURL = "/"
+title = "M. Nouri"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Personal Website"
+  copyright = "&copy; 2019 Muhannad Nouri"
+  sidebarAbout = [
+    "I am a Computer Science graduate with a Concentration in Software Engineering from the University of Calgary proficient at software development and design.",
+    "Currently based in Calgary, AB"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "muhannadnouri@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "home/welcome"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/about"
+
+  [[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
+
+  [[params.navlinks]]
+  name = "Resume"
+  url = "/resume/"
+
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+
+  [[params.navlinks]]
+  name = "Contact"
+  url = "/contact/"
+
+  [params.social]
+  email         = "muhannadnouri@gmail.com"
+  linkedin      = "https://ca.linkedin.com/in/muhannadnouri"
+  github        = "https://github.com/muhannadnouri"
