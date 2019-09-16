@@ -72,6 +72,12 @@ __________________
   <font size="+3">Experience</font>
 </p>
 
+### Software Developer Intern
+#### RS Energy Group
+##### (May 2019 - Present)
+* Placeholder
+* Placeholder
+
 ### Hacker
 #### CalgaryHacks
 ##### (February 2019)
@@ -93,7 +99,7 @@ __________________
 ### Technical Mentor
 #### Technovation Iridescent
 ##### (January 2019 - Present)
-* Developed introductory mobile development curriculum, and teaching material for the Swift programming langugae and iOS development.
+* Developed introductory mobile development curriculum, and teaching material for the Swift programming language and iOS development.
 * Taught fundamental programming concepts, version control using GitHub, and iOS development (Swift).
 * Provided mobile application development, troubleshooting and design support.
 
