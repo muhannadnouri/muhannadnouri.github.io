@@ -1,5 +1,5 @@
 +++
-image = "https://i.imgur.com/X08jDTt.jpg"
+image = "https://i.imgur.com/mftHJx9.jpg"
 showonlyimage = false
 date = "2020-01-08"
 title = "Map, Reduce & Filter in JavaScript"
@@ -7,14 +7,12 @@ draft = false
 weight = 2
 +++
 
-JavaScript
+Functional Programming in JavaScript
 <!--more-->
-
-## Map, Reduce, & Filter in JavaScript
 
 - In this post, I will explain the JavaScript's map, reduce, and filter functions work, and explore some practical use cases of functional programming in JavaScript.
 
-#### What do they all have in common?
+## What do they all have in common?
 - All three functions are array methods (i.e. methods you can call on your array variables).
 - The returned value in each function is a new array containing the result of the operations performed on the original array in a function you provide.
 
