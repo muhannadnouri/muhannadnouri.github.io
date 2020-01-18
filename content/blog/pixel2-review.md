@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019-03-28"
 title = "Google Pixel 2 XL Review"
 draft = false
-weight = 2
+weight = 3
 +++
 
 This is my review for Google's Pixel 2 XL phone after one full year of using it as my daily driver.
