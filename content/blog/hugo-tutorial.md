@@ -4,7 +4,7 @@ title = "Hugo & Netlify Tutorial"
 draft = false
 image = "https://i.imgur.com/3BPGzVD.png"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 In this post, I am going to show you to build your own personal website using the static website generator [Hugo](https://gohugo.io), then we will deploy our website using [Netlify](https://netlify.com).
