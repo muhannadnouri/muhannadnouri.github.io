@@ -7,10 +7,8 @@ draft = false
 weight = 2
 +++
 
-Functional Programming in JavaScript
+This post is a basic walkthrough of JavaScript's map, filter, and reduce methods that provides practical use cases of functional programming in JavaScript.
 <!--more-->
-
-- In this post, I will explain the JavaScript's map, reduce, and filter functions work, and explore some practical use cases of functional programming in JavaScript.
 
 ### What do they all have in common?
 - All three functions are array methods (i.e. methods you can call on your array variables).
