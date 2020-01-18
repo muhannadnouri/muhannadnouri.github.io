@@ -70,9 +70,9 @@ const names = users.map(currentItem => {
 ```
 const numbers = [2, 4, 6, 11, 12, 33]
 
-const oddNumbers = numbers.filter(x => x % 2 === 0)
+const evenNumbers = numbers.filter(x => x % 2 === 0)
 
-// oddNumbers = [11, 33]
+// evenNumbers = [2, 4, 6, 12]
 ```
 
 **Practical Use Case**
