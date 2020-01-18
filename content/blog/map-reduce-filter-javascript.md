@@ -2,7 +2,7 @@
 image = "https://i.imgur.com/mftHJx9.jpg"
 showonlyimage = false
 date = "2020-01-08"
-title = "Map, Reduce & Filter in JavaScript"
+title = "Map, Filter & Reduce in JavaScript"
 draft = false
 weight = 2
 +++
