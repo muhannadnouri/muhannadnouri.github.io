@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2020-01-08"
 title = "Map, Filter & Reduce in JavaScript"
 draft = false
-weight = 2
+weight = 1
 +++
 
 This post is a basic walkthrough of JavaScript's map, filter, and reduce methods that provides practical use cases of functional programming in JavaScript.
