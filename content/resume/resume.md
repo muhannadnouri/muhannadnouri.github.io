@@ -72,11 +72,18 @@ __________________
   <font size="+3">Experience</font>
 </p>
 
+### Software Developer
+#### RS Energy Group
+##### (November 2019 - Present)
+* Directly contributed to the development of a React JavaScript application in a full stack role focusing on the application's frontend
+* Developed NodeJS REST API communicating with variety of NoSQL and SQL database systems such as MongoDB and PostgreSQL
+* Designed, built, and maintained reusable React components, wielding Redux for global state management
+* Developed full test coverage through unit and integration test suites using behavior-driven development using Jest, Enzyme, & React Testing Library
+* Automated data ingestion processes using Python
+
 ### Software Developer Intern
 #### RS Energy Group
-##### (May 2019 - Present)
-* Placeholder
-* Placeholder
+##### (May 2019 - October 2019)
 
 ### Hacker
 #### CalgaryHacks
