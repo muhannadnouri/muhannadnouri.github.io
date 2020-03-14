@@ -74,7 +74,7 @@ __________________
   <font size="+3">Experience</font>
 </p>
 
-### Software Developer
+### Full Stack Developer
 #### RS Energy Group
 ##### (November 2019 - Present)
 * Directly contributed to the development of a React JavaScript application in a full stack role focusing on the application's frontend
