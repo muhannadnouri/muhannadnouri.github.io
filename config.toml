@@ -50,10 +50,6 @@ googleAnalytics = ""
   url = "resume/resume"
 
   [[params.navlinks]]
-  name = "Portfolio"
-  url = "portfolio/"
-
-  [[params.navlinks]]
   name = "Contact"
   url = "contact/"
 
