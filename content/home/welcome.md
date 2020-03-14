@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Muhannad Nouri"
 +++
 
-### Software Developer
+### Full Stack Software Developer
 
 #### [GitHub](https://github.com/muhannadnouri) | [LinkedIn](https://ca.linkedin.com/in/muhannadnouri)
 
