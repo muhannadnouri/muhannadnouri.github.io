@@ -8,7 +8,9 @@ draft = false
   <font size="+3">Profile</font>
 </p>
 
-Driven and well-rounded computer science student proficient at data analysis, software analysis and testing, database management and design looking to leverage his skills in an environment fostering growth.
+Results-driven Computer Science Graduate with hands-on experience in enterprise software development, data analysis, and interaction design looking to leverage his skills in an environment fostering growth.
+
+Passionate about coffee ☕ and programming 👨‍💻 
 <br></br>
 
 __________________
