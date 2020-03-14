@@ -84,6 +84,7 @@ __________________
 ### Software Developer Intern
 #### RS Energy Group
 ##### (May 2019 - October 2019)
+* Completed a 6 month internship term in a full stack web development role developing enterprise-level software in JavaScript (ReactJS, NodeJS)
 
 ### Hacker
 #### CalgaryHacks
