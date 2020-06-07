@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Personal Website"
-  copyright = "&copy; 2019 Muhannad Nouri"
+  copyright = "&copy; 2020 Muhannad Nouri"
   sidebarAbout = [
     "I am a Computer Science graduate with a Concentration in Software Engineering from the University of Calgary proficient at software development and design.",
     "Currently based in Calgary, AB"
