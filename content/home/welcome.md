@@ -14,7 +14,7 @@ title = "Muhannad Nouri"
 <img
     style="
         border-radius: 10%;
-        // height: 500px;
+        height: 450px;
         // width: 500px;
     "
     src="https://i.imgur.com/guajfA3.jpg"

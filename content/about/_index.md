@@ -8,7 +8,7 @@ I’m a Computer Science graduate from the University of Calgary with a Bachelor
 <img
     style="
         border-radius: 10%;
-        // height: 500px;
+        height: 450px;
         // width: 500px;
     "
     src="https://i.imgur.com/guajfA3.jpg"
