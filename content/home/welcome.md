@@ -20,3 +20,7 @@ title = "Muhannad Nouri"
     src="https://i.imgur.com/guajfA3.jpg"
     alt="Muhannad"
 >
+
+<p align="center" style="color: darkgray;">
+  <font size="+2">⛰️ 👨‍💻 ☕ </font>
+</p>
