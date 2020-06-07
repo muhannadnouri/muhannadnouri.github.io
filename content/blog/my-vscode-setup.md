@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-This post is a walkthrough of the setup I prefer to use in Microsoft's VSCode text editor and some of my favourite extensions.
+This post is a walkthrough of my preferred setup to use in Microsoft's VSCode text editor and some of my favourite extensions.
 <!--more-->
 
 #### Do we need another "VSCode Setup" blog post?
