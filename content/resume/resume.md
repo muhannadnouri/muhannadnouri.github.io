@@ -88,7 +88,7 @@ __________________
 ##### (May 2019 - October 2019)
 * Completed a 6 month internship term in a full stack web development role developing enterprise-level software in JavaScript (ReactJS, NodeJS)
 
-### Hacker
+### Developer
 #### CalgaryHacks
 ##### (February 2019)
 * Participated in the 2019 CalgaryHacks Hackathon at the University of Calgary. It brought over 200 participants over a two day work period for a competition to develop a software project solving a problem.
