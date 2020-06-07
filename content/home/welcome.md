@@ -9,4 +9,14 @@ title = "Muhannad Nouri"
 
 <br>
 
-<img src="https://i.imgur.com/guajfA3.jpg" alt="drawing" align="left" height="" width="90%"/>
+<!--- <img src="https://i.imgur.com/guajfA3.jpg" alt="drawing" align="left" height="" width="90%"/> -->
+
+<img
+    style="
+        border-radius: 10%;
+        // height: 500px;
+        // width: 500px;
+    "
+    src="https://i.imgur.com/guajfA3.jpg"
+    alt="Muhannad"
+>
