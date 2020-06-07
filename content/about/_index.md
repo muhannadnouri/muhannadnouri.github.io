@@ -3,7 +3,7 @@ date = "2019-01-01"
 title = "About"
 +++
 
-I’m a Computer Science graduate from the University of Calgary with a Bachelor of Science in Computer Science with a Concentration in Software Engineering. In my spare time, I enjoy going to the mountains, reading, and finding new ways to automate more things in my house.
+I’m a Computer Science graduate from the University of Calgary with a Bachelor of Science in Computer Science with a Concentration in Software Engineering. In my spare time, I enjoy going to the mountains, reading, and finding new ways to automate more things in my home.
 
 <img
     style="
