@@ -18,6 +18,7 @@ The main reason behind writing this blog post is to have a central repository of
 - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox)
 - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 - [Rainbow CSV](https://plugins.jetbrains.com/plugin/12896-rainbow-csv)
+- [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 - [VS Code Keymap](https://plugins.jetbrains.com/plugin/12062-vs-code-keymap)
 
 
